@@ -24,6 +24,18 @@ Based in Dubai, UAE 🇦🇪 · Working across the MENA region
 ### Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
+
+```txt
+Python               503 hrs 15 mins       ████████████▓░░░░░░░░░░░░   50.76 %
+XML                  299 hrs 51 mins       ███████▓░░░░░░░░░░░░░░░░░   30.25 %
+JavaScript           67 hrs 47 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+Markdown             32 hrs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Other                31 hrs 15 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+TypeScript           13 hrs 39 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+YAML                 7 hrs 26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+PHP                  6 hrs 57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
