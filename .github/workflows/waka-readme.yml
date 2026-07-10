@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update this repo's README
@@ -16,3 +19,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TIME_RANGE: all_time
           LANG_COUNT: 8
+          SHOW_TOTAL: true
