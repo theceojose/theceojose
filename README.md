@@ -26,13 +26,13 @@ Based in Dubai, UAE 🇦🇪 · Working across the MENA region
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,094 hrs 21 mins
+Total Time: 1,096 hrs 1 min
 
-Python               567 hrs 34 mins       ████████████▒░░░░░░░░░░░░   49.90 %
-XML                  329 hrs 50 mins       ███████▒░░░░░░░░░░░░░░░░░   29.00 %
-JavaScript           71 hrs 54 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Markdown             52 hrs 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-Other                43 hrs 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Python               568 hrs 24 mins       ████████████▒░░░░░░░░░░░░   49.90 %
+XML                  330 hrs 32 mins       ███████▒░░░░░░░░░░░░░░░░░   29.02 %
+JavaScript           71 hrs 54 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+Markdown             53 hrs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Other                43 hrs 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 TypeScript           15 hrs 37 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 YAML                 10 hrs 13 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 HTML                 7 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
