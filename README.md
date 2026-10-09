@@ -3,7 +3,7 @@
 <img src="assets/header.svg" width="100%" alt="Luis · theceojose — Odoo Developer & ERP Architect" />
 
 <a href="https://github.com/theceojose">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=714B67&center=true&vCenter=true&width=760&lines=Custom+Odoo+implementations+that+fit+the+business;Module+development+%C2%B7+Integrations+%C2%B7+Automation;Migrations+across+Odoo+v14+%E2%86%92+v19;Turning+messy+processes+into+clean+ERP+workflows" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=714B67&center=true&vCenter=true&width=760&lines=Custom+Odoo+implementations+that+fit+the+business;Module+development+%C2%B7+Integrations+%C2%B7+AI+Agents;Migrations+across+Odoo+v14+%E2%86%92+v20;Turning+messy+processes+into+clean+ERP+workflows" alt="typing banner" />
 </a>
 
 <br><br>
@@ -26,7 +26,8 @@ I'm **Luis**, an Odoo developer and ERP architect based in **Dubai, UAE 🇦🇪
 I help businesses run their operations on Odoo: from analysis and design to custom development, integrations and go-live.
 
 - 🧩 **Custom modules** on Odoo (Python + XML + OWL/JS), built to Odoo and OCA standards.
-- 🔄 **Migrations** between versions, **v14 → v19**, keeping data and customizations intact.
+- 🔄 **Migrations** between versions, **v14 → v20**, keeping data and customizations intact.
+- 🤖 **AI Agent Odoo Expert**: AI agents that understand Odoo and automate ERP tasks: querying data, creating records, answering process questions and assisting users.
 - 🔌 **Integrations** with external systems through XML-RPC / JSON-RPC and REST APIs (FastAPI).
 - 🏗️ **ERP architecture**: sales, purchase, inventory, accounting, manufacturing, HR and projects.
 - ⚙️ **Deployment & performance**: Docker, PostgreSQL tuning, CI/CD.
