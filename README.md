@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=714B67&height=170&section=header&text=Luis%20%C2%B7%20theceojose&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Odoo%20Developer%20%26%20ERP%20Architect&descAlignY=60&descSize=18" width="100%" alt="header" />
+<img src="assets/header.svg" width="100%" alt="Luis · theceojose — Odoo Developer & ERP Architect" />
 
 <a href="https://github.com/theceojose">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=714B67&center=true&vCenter=true&width=760&lines=Custom+Odoo+implementations+that+fit+the+business;Module+development+%C2%B7+Integrations+%C2%B7+Automation;Migrations+across+Odoo+v14+%E2%86%92+v19;Turning+messy+processes+into+clean+ERP+workflows" alt="typing banner" />
@@ -10,7 +10,7 @@
 
 <a href="mailto:hello@theceojose.com"><img src="https://img.shields.io/badge/Email-714B67?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
 <a href="https://linkedin.com/in/theceojose"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://github.com/theceojose"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://instagram.com/theceojose"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 <br><br>
 
@@ -22,7 +22,7 @@
 
 ## 👋 About me
 
-I'm **Luis**, an Odoo developer and ERP architect based in **Dubai, UAE 🇦🇪**, working with companies across the **MENA region**.
+I'm **Luis**, an Odoo developer and ERP architect based in **Dubai, UAE 🇦🇪**, working with companies across the **Gulf (GCC) region**.
 I help businesses run their operations on Odoo: from analysis and design to custom development, integrations and go-live.
 
 - 🧩 **Custom modules** on Odoo (Python + XML + OWL/JS), built to Odoo and OCA standards.
@@ -97,6 +97,6 @@ Looking to implement, customize, migrate or rescue an Odoo project? Let's talk.
 
 <a href="mailto:hello@theceojose.com"><img src="https://img.shields.io/badge/Contact%20me-hello%40theceojose.com-714B67?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=714B67&height=90&section=footer" width="100%" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="footer" />
 
 </div>
