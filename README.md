@@ -1,27 +1,63 @@
-# Hi, I'm Luis 👋
+<div align="center">
 
-Odoo Developer & ERP Architect specializing in custom implementations, module development, and multi-version migrations (v14–v19).
+<img src="https://capsule-render.vercel.app/api?type=waving&color=714B67&height=170&section=header&text=Luis%20%C2%B7%20theceojose&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Odoo%20Developer%20%26%20ERP%20Architect&descAlignY=60&descSize=18" width="100%" alt="header" />
 
-Based in Dubai, UAE 🇦🇪 · Working across the MENA region
+<a href="https://github.com/theceojose">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=714B67&center=true&vCenter=true&width=760&lines=Custom+Odoo+implementations+that+fit+the+business;Module+development+%C2%B7+Integrations+%C2%B7+Automation;Migrations+across+Odoo+v14+%E2%86%92+v19;Turning+messy+processes+into+clean+ERP+workflows" alt="typing banner" />
+</a>
+
+<br><br>
+
+<a href="mailto:hello@theceojose.com"><img src="https://img.shields.io/badge/Email-714B67?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+<a href="https://linkedin.com/in/theceojose"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://github.com/theceojose"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=theceojose&style=flat&color=714B67&label=profile+views" alt="profile views" />
+
+</div>
 
 ---
 
-### Tech Stack
+## 👋 About me
 
-`Odoo` `Python` `FastAPI` `React` `PostgreSQL` `Docker` `XML-RPC`
+I'm **Luis**, an Odoo developer and ERP architect based in **Dubai, UAE 🇦🇪**, working with companies across the **MENA region**.
+I help businesses run their operations on Odoo: from analysis and design to custom development, integrations and go-live.
 
----
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=theceojose&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theceojose&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages" />
-</p>
+- 🧩 **Custom modules** on Odoo (Python + XML + OWL/JS), built to Odoo and OCA standards.
+- 🔄 **Migrations** between versions, **v14 → v19**, keeping data and customizations intact.
+- 🔌 **Integrations** with external systems through XML-RPC / JSON-RPC and REST APIs (FastAPI).
+- 🏗️ **ERP architecture**: sales, purchase, inventory, accounting, manufacturing, HR and projects.
+- ⚙️ **Deployment & performance**: Docker, PostgreSQL tuning, CI/CD.
 
 ---
 
-### Weekly Coding Activity (WakaTime)
+## 🛠️ Tech stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker,js,react,ts,git,github,linux,nginx,vscode&perline=12" alt="tech stack" />
+
+</div>
+
+---
+
+## 📦 Odoo expertise
+
+| Area | What I do |
+|---|---|
+| **Finance** | Accounting, invoicing, taxes & localization, multi-company and multi-currency |
+| **Supply chain** | Inventory, purchase, warehouses, routes, manufacturing (MRP) |
+| **Sales & CRM** | Pipelines, quotations, pricing, subscriptions, eCommerce and website |
+| **People & Projects** | HR, timesheets, project management, helpdesk |
+| **Technical** | ORM, QWeb reports, OWL, server actions, automated actions, security rules, data migration |
+
+---
+
+## ⏱️ Weekly coding activity (WakaTime)
 
 <!--START_SECTION:waka-->
 
@@ -42,10 +78,25 @@ HTML                 7 hrs 2 mins          ░░░░░░░░░░░░�
 
 ---
 
-### Contact
+## 📊 GitHub stats
 
-<p align="left">
-  <a href="mailto:hello@theceojose.com"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/theceojose"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/theceojose"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=theceojose&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=b58fb0&icon_color=714B67&text_color=c9d1d9" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theceojose&layout=compact&hide_border=true&bg_color=0d1117&title_color=b58fb0&text_color=c9d1d9" height="165" alt="Top languages" />
+
+</div>
+
+---
+
+## 🤝 Let's work together
+
+Looking to implement, customize, migrate or rescue an Odoo project? Let's talk.
+
+<div align="center">
+
+<a href="mailto:hello@theceojose.com"><img src="https://img.shields.io/badge/Contact%20me-hello%40theceojose.com-714B67?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=714B67&height=90&section=footer" width="100%" alt="footer" />
+
+</div>
