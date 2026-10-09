@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/theceojose/theceojose/master/assets/header.svg?v=2" width="100%" alt="Luis · theceojose — Odoo Developer & ERP Architect" />
+<img src="https://raw.githubusercontent.com/theceojose/theceojose/master/assets/header.svg?v=3" width="100%" alt="Luis · theceojose — Odoo Developer & ERP Architect" />
 
 <a href="https://github.com/theceojose">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=714B67&center=true&vCenter=true&width=760&lines=Custom+Odoo+implementations+that+fit+the+business;Module+development+%C2%B7+Integrations+%C2%B7+AI+Agents;Migrations+across+Odoo+v14+%E2%86%92+v20;Turning+messy+processes+into+clean+ERP+workflows" alt="typing banner" />
@@ -98,6 +98,6 @@ Looking to implement, customize, migrate or rescue an Odoo project? Let's talk.
 
 <a href="mailto:hello@theceojose.com"><img src="https://img.shields.io/badge/Contact%20me-hello%40theceojose.com-714B67?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
 
-<img src="https://raw.githubusercontent.com/theceojose/theceojose/master/assets/footer.svg?v=2" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/theceojose/theceojose/master/assets/footer.svg?v=3" width="100%" alt="footer" />
 
 </div>
