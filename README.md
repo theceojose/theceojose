@@ -77,6 +77,8 @@ HTML                 8 hrs 1 min           ░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+_Última actualización: <!--START_UPDATED-->pendiente<!--END_UPDATED-->_
+
 ---
 
 ## 📊 GitHub stats
