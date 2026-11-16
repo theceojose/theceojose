@@ -8,7 +8,7 @@ import sys
 import urllib.error
 import urllib.request
 
-API_URL = "https://wakatime.com/api/v1/users/current/stats/last_7_days"
+API_URL = "https://wakatime.com/api/v1/users/current/stats/last_year"
 README = os.environ.get("README_PATH", "README.md")
 LANG_COUNT = 8
 BAR_WIDTH = 25

@@ -58,7 +58,7 @@ I help businesses run their operations on Odoo: from analysis and design to cust
 
 ---
 
-## ⏱️ Weekly coding activity (WakaTime)
+## ⏱️ Coding activity – last 12 months (WakaTime)
 
 <!--START_SECTION:waka-->
 
